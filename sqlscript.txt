@@ -1,0 +1,14 @@
+SELECT * FROM status_info;
+CREATE TABLE status_info (
+            stcode VARCHAR(40), 
+            st VARCHAR(40),
+            share VARCHAR(40), 
+            perm VARCHAR(40), 
+            post_date VARCHAR(40));
+
+
+INSERT INTO status_info (stcode, st, share, perm, post_date) 
+	VALUES ('$stcode', '$st', '$share', '$permValues', '$date');
+
+SELECT * FROM status_info;
+SELECT * FROM status_info WHERE st='$search';

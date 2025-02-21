@@ -1,0 +1,46 @@
+html {
+  background-color: #0564bc;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  width: 690px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 8px solid black;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: verdana;
+  font-size: 230%;
+  margin: 0;
+  padding: 20px 0;
+}
+
+p {
+  color: red;
+  font-family: verdana;
+  font-size: 120%;
+  margin: 20px;
+}
+
+label {
+  color: rgb(0, 0, 0);
+  font-family: verdana;
+  font-size: 130%;
+}
+
+input[type=submit] {
+  margin: 0 auto; 
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 17px 33px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.right {
+  float: right;
+}
