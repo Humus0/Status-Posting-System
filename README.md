@@ -18,3 +18,6 @@ I developed a system that enables users to create and store statuses with person
 
 ## Home Page:
 ![Image](https://github.com/user-attachments/assets/d13d29dd-f1fb-45f5-835f-f47ba3212bea)
+
+## Posting Page:
+![Image](https://github.com/user-attachments/assets/c93ed29b-80d4-4f83-93fd-59de3886e8e1)
