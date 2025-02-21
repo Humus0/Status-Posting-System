@@ -16,4 +16,5 @@ I developed a system that enables users to create and store statuses with person
  - Open Index.html
 
 
-
+## Home Page:
+![Image](https://github.com/user-attachments/assets/d13d29dd-f1fb-45f5-835f-f47ba3212bea)
