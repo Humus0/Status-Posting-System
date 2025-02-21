@@ -19,6 +19,13 @@ I developed a system that enables users to create and store statuses with person
 ## Home Page:
 ![Image](https://github.com/user-attachments/assets/d13d29dd-f1fb-45f5-835f-f47ba3212bea)
 
+If a status is successfully posted: 
+![Image](https://github.com/user-attachments/assets/217d2304-2a62-40a0-8432-582d87faea3a)
+
+If any values are left blank:
+![Image](https://github.com/user-attachments/assets/0bc7c778-0a2d-4ace-9093-d0b2f8007327)
+
+
 ## Post Page:
 ![Image](https://github.com/user-attachments/assets/c93ed29b-80d4-4f83-93fd-59de3886e8e1)
 
