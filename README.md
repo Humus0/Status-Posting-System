@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb38564b-f54f-471f-811d-3a4e0d8e1f89)![image](https://github.com/user-attachments/assets/2c285d77-ec4a-48a4-ad96-0790778b5775)# Status-Posting-System
+# Status-Posting-System
 
 ## Description:
 I developed a system that enables users to create and store statuses with personal details and timestamps in a database. The system allows users to search for existing statuses within the database and ensures that each status is associated with a unique status code. This functionality guarantees the creation of distinct codes for different statuses, enhancing data integrity and retrieval.
